@@ -1,2 +1,2 @@
-# bruner-vygotsky-concept-map
-bruner and vygotsky concept-map
+# bruner-vygotsky
+bruner and vygotsky
